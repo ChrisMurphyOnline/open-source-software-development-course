@@ -1,0 +1,98 @@
+After completing this activity, you will be able to:
+* Set up a blog for documenting your progress over the course of this semester
+* Use an Internet Relay Chat (IRC) client for communicating with remote team members
+* Use GitHub for tracking code modifications
+
+Part 1: Blogs
+-------------
+Many FOSS developers use blogs to reflect on their work or to make observations on FOSS events or new technologies. In this course, you will maintain a blog and update it weekly with information about your activities, progress, and next steps. Your responses to weekly reading assignments will also be posted on your blog.
+
+Step 1. Create a blog
+If you do not already have a personal blog, create one at tumblr.com, or choose another site if you prefer.
+
+Please choose a name that is appropriate for the course!
+
+Step 2. Write a blog post
+Write a blog post in which you introduce yourself and discuss your interest in FOSS and this course. Be sure to include:
+* your name
+* your school, degree program, and year
+* why you’re interested in FOSS and/or why you’re interested in this course
+* what you hope to learn in this course
+* what sort of project you’re interested in working on
+
+Step 3. Share your blog URL
+Go to Piazza and find the post entitled “Blog URLs”. Create a new “Followup discussion” containing the public URL for your blog; be sure that it’s the one for reading the blog and not the one you use for editing it!
+
+
+Part 2: IRC
+-----------
+Although distributed communication tools like Slack, Google Hangout, etc. are picking up in popularity, many FOSS projects use Internet Relay Chat (IRC) for communication between developers and community members. Your project for this course may use a different technology, but you should still be familiar with IRC for potential future FOSS projects once this course is done.
+
+
+Step 1. Install an IRC client
+
+There are many IRC clients to choose from. Below is a brief list of suggestions: 
+1.    Mac OS X: LimeChat (http://limechat.net/mac/) or Colloquy (http://colloquy.info/) 
+2.    Linux: Hexchat (https://hexchat.github.io/) or Pidgin (https://pidgin.im/) 
+3.    Firefox add-on: ChatZilla (https://addons.mozilla.org/en-US/firefox/addon/chatzilla/) is a multi-platform add-on that will work on Windows, Linux and Mac OS X 
+
+Step 2. Join an IRC chat
+Participating in an IRC chat is a two-step process: first you connect to a server, then you join a channel.
+
+Start by connecting to the server at irc://freenode/. Depending on your client, you may be able to do this through the UI, or you may need to use the command line and type: /server irc.freenode.net
+
+You may also need to specify the server as irc://chat.freenode.net
+
+If successful, you should see a message like “Welcome to the freenode Internet Relay Chat Network”.
+
+Then join the class’ IRC channel using the command:
+/join #upenncis399
+
+You should see ChrisMurphy and perhaps other students listed as participating in the channel.
+
+Step 3. Play around and chat!
+Once you’re connected, announce that you’ve joined by just typing the message that you want to send to everyone else.
+
+Then play around with IRC commands (there’s a good list at http://www.ircbeginner.com/ircinfo/ircc-commands.html) and chat with your fellow students until the instructor calls things to order.
+
+IMPORTANT NOTE! Once you have joined the IRC channel, you may not speak until the instructor has said it’s okay to do so! This is so we can simulate the distributed conversation without being able to talk to one another.
+
+
+Part 3. GitHub
+--------------
+Presumably you already have some experience using GitHub from prior courses, but it is critical that you feel comfortable with the typical GitHub workflow when contributing to FOSS projects, since nearly all of the ones we will use in this course rely on it heavily.
+
+Step 1. Create an account
+If you do not already have an account, create one at github.com. 
+
+Also be sure that you have git on your local computer or have GitHub Desktop: https://desktop.github.com/
+
+Step 2. Fork and clone repo
+Make a fork of the repo at https://github.com/cis-upenn/fun-with-github into your account, then clone it onto your local computer.
+
+Step 3. Claim an issue to work on
+Go to that repo’s “Issues” tab and find one that you would like to work on (some are easier than others!). 
+
+Is there a way in github to assign this to people?
+
+To claim the issue as your own, add a comment indicating that you are working on it. Make sure you aren’t working on the same issue as someone else!
+
+IMPORTANT NOTE! If you would like to communicate with another student or the instructor regarding the issue, you MUST use the IRC channel and you may NOT speak until the instructor has said it’s okay to do so! 
+
+Step 4. Make local changes as needed
+Make changes to the code for your issue in your local environment. 
+
+This shouldn’t take too long but as above, if you need to communicate with another student or the instructor, you MUST use the IRC channel.
+
+Step 5. Commit/push your changes to your fork
+After modifying the code, commit your changes locally and then push them to your fork in GitHub.
+
+Step 6. Submit a Pull Request
+Create a new Pull Request (PR) in the https://github.com/cis-upenn/fun-with-github repo from your fork.
+
+Then add a comment in the Issue that you claimed, indicating that you have submitted a PR. Include a link to the PR.
+
+Step 7. Wait patiently
+Patiently wait in GitHub to see if your PR is merged by one of the repo owners. You may also get a follow-up comment in your Issue, or a note in IRC.
+
+Only when your PR is merged can you consider this step “done”, so don’t celebrate just yet!
