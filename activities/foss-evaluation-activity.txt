@@ -1,0 +1,103 @@
+After completing this activity, you will be able to:
+* Evaluate the size, activity, and organization of a FOSS project
+* Assess how easy or difficult it is for someone to get involved in the project
+
+Organization
+This activity will be organized using the Process Oriented Guided Inquiry Learning (POGIL) approach. You will work in groups of three to complete the activities below in the amount of time that is suggested, and then report your findings and observations to the rest of the class.
+
+Each student in your group should take on one of the following roles:
+* Manager: Manages the group. Ensures that members are fulfilling their role, the assigned tasks are being accomplished on time, and all members of the group are participating in the activities. 
+* Recorder: Records the important aspects of the group discussions, observations, insights, etc. 
+* Presenter: Presents oral reports to the class for the group.
+If there are only two people in your group, the Manager and Presenter roles can be filled by one person.
+
+
+Part 1: FOSS Field Trip
+-----------------------
+In this first activity, you will take a “field trip” to some FOSS projects to learn more about them, and then report your findings to the rest of the class.
+
+Step 1: Investigate a “popular” project (10 minutes) 
+Go to http://openhub.net and then choose a project from the “Most Popular Projects” listing on the left side of the page.
+
+Now answer the questions below:
+1.  What is the main programming language used on this project? What other programming languages, if any, are used?
+2.  How many lines of code are there in this project?
+3.  How many commits have there been in the past 30 days? In the past year?
+4.  How many contributors were there in the past 30 days? How many were new?
+5.  What is the ratio of code lines to comment lines?
+6.  What is the ratio of lines added to lines removed (sometimes known as “code churn”) in the past 30 days?
+7.  What is the peak number of contributors to this project?
+8.  How many of the top 10 contributors to the project are still active? 
+9.  Based on your findings, how easy do you think it would be to contribute to this project in this course? Why?
+
+Be sure that the Recorder is writing down the answers, the Manager is keeping everything on track, and the Presenter will be ready to report the answers to the rest of the class within 10 minutes!
+
+Step 2: Investigate a smaller project (10 minutes)
+Now go back to the OpenHub homepage, then select and search for one of the following projects:
+* gnome-mousetrap
+* jrugged
+* WhirlyGlobe
+* OpenTreeMap-iOS
+* Apache Kafka
+* python-tox
+
+Then answer these questions (same as above):
+1.   What is the main programming language used on this project? What other programming languages, if any, are used?
+2.   How many lines of code are there in this project?
+3.   How many commits have there been in the past 30 days? In the past year?
+4.   How many contributors were there in the past 30 days? How many were new?
+5.   What is the ratio of code lines to comment lines?
+6.   What is the ratio of lines added to lines removed (sometimes known as “code churn”) in the past 30 days?
+7.   What is the peak number of contributors to this project?
+8.   How many of the top 10 contributors to the project are still active? 
+9.   Based on your findings, how easy do you think it would be to contribute to this project in this course? Why?
+
+Also answer these questions:
+1.   What do you think are some of the advantages and disadvantages of choosing to contribute to this project? 
+2.   What other information would you like to know about a project before choosing to contribute to it?
+
+As in Step 1, be sure that the Recorder is writing down the answers, the Manager is keeping everything on track, and the Presenter will be ready to report the answers to the rest of the class within 10 minutes!
+
+
+Part 2. FOSS Project Evaluation
+-------------------------------
+In this activity, you will evaluate a FOSS project based on its community and the ease with which someone could make contributions to it.
+
+As above, we will use the three POGIL roles (Manager, Recorder, and Presenter), but please switch roles among the group members for this activity.
+
+Step 1: Evaluating the project community (10 minutes)
+Choose one of the following projects; you will use this same project in Step 2:
+* Ushahidi: https://www.ushahidi.com/
+* OpenMRS: http://openmrs.org/
+* Cesium: http://cesiumjs.org/
+* Mozilla Servo: https://servo.org/
+* Apache Kafka: http://kafka.apache.org/
+
+Based only on what you can find on the website (or pages linked from the website) and without resorting to Google searches, are you able to find the following?
+1.    A description of the project
+2.    Information about how to contact the project owners
+3.    Information about how to join the user community
+4.    A roadmap describing upcoming and planned features
+5.    A description of how to install the latest version of the binaries/compiled code
+
+Based on your findings above, answer the following questions:
+1.    How welcoming does this project community appear to be to new users? What contributed to this opinion?
+2.    What did you find unwelcoming, confusing, or intimidating?
+
+As always, be sure that the Recorder is writing down the answers, the Manager is keeping everything on track, and the Presenter will be ready to report the answers to the rest of the class within 10 minutes!
+
+Step 2: Evaluating the developer community (10 minutes)
+For the same project you chose in Step 1, see if you are able to find the following. You may use the project website, a Google search, GitHub, etc.:
+1.  The location of the latest version of the source code
+2.  Information about how to communicate with the developers
+3.  A listing of tasks that need to be completed
+4.  An explanation of how to get started as a contributor to the project
+5.  A listing of tasks that are appropriate for new contributors
+
+Based on your findings above, answer the following questions:
+1.    How welcoming does this project appear to be to new developers? What contributed to this opinion?
+2.    What did you find unwelcoming, confusing, or intimidating?
+3.    How easy do you think it would be to contribute to this project in this course? Why?
+
+As always, be sure that the Recorder is writing down the answers, the Manager is keeping everything on track, and the Presenter will be ready to report the answers to the rest of the class within 10 minutes!
+
