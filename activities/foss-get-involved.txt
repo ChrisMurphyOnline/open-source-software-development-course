@@ -1,0 +1,54 @@
+After completing this activity, you will be able to:
+* Identify the documentation describing how to get started as a contributor to a FOSS project
+* Identify the documentation describing a FOSS project’s culture and community
+* Become a member of a FOSS project
+
+This activity assumes that you have been assigned a project to work on this semester. If that’s not the case, please speak with the Instructor right away!
+
+Part 1. Learn about the project
+-------------------------------
+Your FOSS project should have a lot of documentation online that will help new contributors learn about the project and get up and running.
+
+For each of the following, post the question/prompt and the answer to your blog. If you are working with another student, both of you should post the questions and responses.
+
+1.  What is the URL of the project homepage? 
+2.  What is the URL of the project code repo?
+3.  What is the URL of the project contributor’s guide? That is, the document that describes how you can contribute code, etc. to the project
+4.  What is the URL of the code convention and style guide?
+5.  What is the URL that describes how to install/build the code?
+6.  What is the URL of the project issue/bug tracker?
+7.  What is the URL of the project roadmap? That is, the document that describes the features planned for upcoming releases
+
+For all of these, if you cannot find an answer or there does not appear to be one, please ask the Instructor or TA for help!
+
+
+Part 2. Learn about the community
+---------------------------------
+Your FOSS project will also likely have documentation regarding the community’s culture and preferred modes of communication.
+
+As in Part 1, for each of the following, post the question/prompt and the answer to your blog. If you are working with another student, both of you should post the questions and responses.
+
+1. What is the URL of the project wiki?
+2. What is the URL describing how to become a member of the project community?
+3. How do you register for the community mailing list?
+4. What synchronous communication mechanism is used by members of the community? E.g., IRC, Google Hangout, Slack, etc. Provide as much detail as possible, e.g. channel name, URL, etc.
+5. What is the URL describing the code of conduct and other related policies?
+6. What is the URL for the transcript of the most recent developer’s meeting or group discussion?
+7. When is the next scheduled developers’ meeting?
+
+For all of these, if you cannot find an answer or there does not appear to be one, please ask the Instructor or TA for help!
+
+
+Part 3. Reach out to and join the community
+-------------------------------------------
+Now that you’ve done some research about what information is available, you’re ready to join the community!
+
+Before the end of today’s class meeting, show the Instructor or TA your blog post for Parts 1 and 2, and also demonstrate that you have done each of the following:
+* joined the project community
+* signed up for the mailing list
+* sent an email to the mailing list introducing yourself (your name, the fact that you’re a student at Penn and are doing this for a course, etc.)
+* forked the project repo
+
+If time permits, try to install/build the source and set up your local development environment.
+
+
