@@ -73,8 +73,6 @@ Make a fork of the repo at https://github.com/cis-upenn/fun-with-github into you
 Step 3. Claim an issue to work on
 Go to that repo’s “Issues” tab and find one that you would like to work on (some are easier than others!). 
 
-Is there a way in github to assign this to people?
-
 To claim the issue as your own, add a comment indicating that you are working on it. Make sure you aren’t working on the same issue as someone else!
 
 IMPORTANT NOTE! If you would like to communicate with another student or the instructor regarding the issue, you MUST use the IRC channel and you may NOT speak until the instructor has said it’s okay to do so! 
